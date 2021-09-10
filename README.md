@@ -1,6 +1,7 @@
 # apsp_sparse_gpu
 
 Measuring the average shortest path length (APSP) for low-degree unweighted regular graphs \[1\].
+
 This modified method is based on the APSP parallelization method in unweighted graphs \[2\].
 
 \[1\] Ryuta Kawano, Hiroki Matsutani, Michihiro Koibuchi, Hideharu Amano, "GPU Parallelization of All-Pairs-Shortest-Path Algorithm in Low-Degree Unweighted Regular Graph", Proc. of the 8th ACIS International Virtual Conference on Applied Computing & Information Technology (ACIT 2021), pp.xx–xx, Jun 2021.
