@@ -17,4 +17,4 @@ This modified method is based on the APSP parallelization method in unweighted g
     $ python3 matrix_op.py -f 6_65536.edges # Original method
     
 # Acknowledgment
-These codes are inherited from https://github.com/mnakao/ODP.
+These codes are inherited from https://github.com/mnakao/ODP, https://github.com/mnakao/ORP.
