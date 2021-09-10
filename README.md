@@ -1,6 +1,6 @@
 # apsp_sparse_gpu
 
-Measuring the average shortest path length (APSP) for low-degree unweighted regular graphs \[1\].
+Calculating the all-pairs-shortest-path (APSP) for low-degree unweighted regular graphs \[1\].
 
 This modified method is based on the APSP parallelization method in unweighted graphs \[2\].
 
