@@ -11,10 +11,6 @@ This modified method is based on the APSP parallelization method in unweighted g
 * python3,pycuda,networkx,numpy
 
 # Usage
-- Modified method
-
-    $ python3 matrix_op_gemm.py -f 6_65536.edges
-- Conventional method
-
-    $ python3 matrix_op.py -f 6_65536.edges
+    $ python3 matrix_op_gemm.py -f 6_65536.edges # Modified method
+    $ python3 matrix_op.py -f 6_65536.edges # Original method
     
