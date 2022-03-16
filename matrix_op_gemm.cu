@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 and later bymnakao (https://github.com/mnakao).
+ * Copyright (C) 2020 and later by mnakao (https://github.com/mnakao).
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
